@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/761-pwa-auto-update",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "fix/761-pwa-auto-update": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "fix/761-pwa-auto-update",
+    "origin"
+  ]
+}
